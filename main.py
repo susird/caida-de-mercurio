@@ -1,6 +1,6 @@
 import pygame, sys
 from config import ANCHO, ALTO
-from game.ventana import ventana
+from ventanas.ventana import ventana
 from game.game_loop import run_game
 
 if __name__ == '__main__':
